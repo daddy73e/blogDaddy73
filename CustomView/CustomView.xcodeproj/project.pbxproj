@@ -16,6 +16,7 @@
 		C708F0D524497B6500C2B20A /* CustomViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C708F0D424497B6500C2B20A /* CustomViewTests.swift */; };
 		C708F0E024497B6500C2B20A /* CustomViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C708F0DF24497B6500C2B20A /* CustomViewUITests.swift */; };
 		C708F0EE24497C4000C2B20A /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C708F0ED24497C4000C2B20A /* CustomView.swift */; };
+		C708F0F02449848A00C2B20A /* CustomView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C708F0EF2449848A00C2B20A /* CustomView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C708F0DF24497B6500C2B20A /* CustomViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomViewUITests.swift; sourceTree = "<group>"; };
 		C708F0E124497B6500C2B20A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C708F0ED24497C4000C2B20A /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
+		C708F0EF2449848A00C2B20A /* CustomView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				C708F0C824497B6500C2B20A /* LaunchScreen.storyboard */,
 				C708F0CB24497B6500C2B20A /* Info.plist */,
 				C708F0ED24497C4000C2B20A /* CustomView.swift */,
+				C708F0EF2449848A00C2B20A /* CustomView.xib */,
 			);
 			path = CustomView;
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C708F0CA24497B6500C2B20A /* LaunchScreen.storyboard in Resources */,
+				C708F0F02449848A00C2B20A /* CustomView.xib in Resources */,
 				C708F0C724497B6500C2B20A /* Assets.xcassets in Resources */,
 				C708F0C524497B6200C2B20A /* Main.storyboard in Resources */,
 			);
